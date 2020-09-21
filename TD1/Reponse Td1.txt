@@ -1,0 +1,32 @@
+reponse TD1 :
+
+Exo 1 :
+
+Que fait le gestionnaire de fichier quand on double-clique ?
+-Le gestionnaire de fichier ouvre le fichier dans le navigateur défault.
+
+Que signifie le file au début de l’URL ?
+-c'est un fichier local
+
+Est-ce que la page HTML s’affiche correctement ?
+-oui
+
+Est-ce qu’il y a une communication entre un serveur et un client HTTP ?
+-non c'est un fichier local
+
+Exo 2 :
+
+Que se passe-t-il quand on ouvre un fichier PHP directement dans le navigateur ?
+Pourquoi ?
+-Il affiche le contenue du PHP sous forme texte sans execter le protocole. On ne peux pas lancer du
+ PHP en local.
+
+ Que se passe-t-il quand on demande un fichier PHP à un serveur HTTP ?
+ -Cela afficher "hello world"
+
+Exo 8 :
+Comment sont transmises les informations ?
+Directement par l'URL
+
+Comment s’appelle la partie de l’URL contenant les informations ?
+Le queryString
